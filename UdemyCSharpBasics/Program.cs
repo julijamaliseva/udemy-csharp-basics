@@ -11,7 +11,7 @@ namespace UdemyCSharpBasics
             Console.WriteLine("Hello World!");
 
             string input;
-            List<String> list = 
+            //List<String> list = 
             while (true)
             {
                 Console.Write("Input a name : ");
